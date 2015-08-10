@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "lucke.pirate@gmail.com",
+    "longName": "SensoryPebble",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "SensoryPebble",
+    "uuid": "3e192ae1-41b6-4d1c-b5ce-776810f68ada",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
